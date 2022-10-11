@@ -22,7 +22,7 @@ Links:
 
 from setuptools import setup, find_packages
 
-requirements = ['Click>=6.0', ]
+requirements = ['Click>=6.0', 'numpy']
 
 setup_requirements = [ ]
 
