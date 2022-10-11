@@ -22,7 +22,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 ```batch
 
-    $ pip install git+https://github.com/nuestro-user/mi_proyecto_de_prueba.git
+    $ pip install git+https://github.com/AlejoLg/ejemplocookiecutter.git
 
 
 ```
